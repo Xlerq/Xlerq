@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Xler</h1>
+<h1 align="center">Hi, I'm Xlerq</h1>
 
 <p align="center">
   Data Science student from Poland
@@ -23,8 +23,17 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xlerq&show_icons=true&hide_border=true&bg_color=00000000&title_color=f2a15d&text_color=d8d0c8&icon_color=c44f3b&ring_color=f2a15d" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlerq&layout=compact&hide_border=true&bg_color=00000000&title_color=f2a15d&text_color=d8d0c8" alt="Top languages">
+  <img src="./profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile details">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Top languages by repository">
+  <img src="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top languages by commits">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/solarized_dark/3-stats.svg" alt="GitHub stats">
+  <img src="./profile-summary-card-output/solarized_dark/4-productive-time.svg" alt="Productive time">
 </p>
 
 ## Current Vibe
