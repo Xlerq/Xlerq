@@ -3,7 +3,7 @@
 <p align="center">
   Data Science student from Poland
   <br>
-  I enjoy coding in Rust, working with data, and endlessly polishing my Arch Linux rice.
+  IT stuff enjoyer.
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ## About Me
 
 - I am a Data Science student from Poland.
-- I like building things in Rust and keeping my workflow terminal-first.
-- I spend a very normal amount of time ricing Arch Linux and tweaking my setup.
+- I like building things in Rust for my own use.
+- I spend abnormal amount of time ricing Arch Linux and tweaking my setup.
 - I enjoy the overlap between code, data, and clean Linux environments.
 
 ## GitHub Stats
@@ -36,11 +36,3 @@
   <img src="./profile-summary-card-output/solarized_dark/4-productive-time.svg" alt="Productive time">
 </p>
 
-## Current Vibe
-
-- Rust
-- Data Science
-- Arch Linux
-- Hyprland
-- Terminal tooling
-- Clean UI, clean code, clean rice
