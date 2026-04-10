@@ -2,8 +2,6 @@
 
 <p align="center">
   Data Science student from Poland
-  <br>
-  IT stuff enjoyer.
 </p>
 
 <p align="center">
@@ -18,7 +16,6 @@
 - I am a Data Science student from Poland.
 - I like building things in Rust for my own use.
 - I spend abnormal amount of time ricing Arch Linux and tweaking my setup.
-- I enjoy the overlap between code, data, and clean Linux environments.
 
 ## GitHub Stats
 
